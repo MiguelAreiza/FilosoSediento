@@ -1,10 +1,10 @@
 {
     "Productos":[
         {
-            "categoria":"Adiciones",
+            "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA ARTESANAL",
             "precio":"27.800",
-            "descripcion":"Burgerfthfthfr de ternera, queso provolone, chimichurri, lechuga, tomate y cebolla roja en pan artesano"
+            "descripcion":"Burger de ternera, queso provolone, chimichurri, lechuga, tomate y cebolla roja en pan artesano"
         }
     ]
 }
