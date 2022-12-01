@@ -5,14 +5,16 @@ $(document).ready(function(){
     
     $('#Translate').click(()=> {
         if (sessionStorage.Language) {
-            sessionStorage.removeItem('Language')
-            location.reload();
+
+            let lib = new google.translate.TranslateService();
+            lib.translatePage('en', 'es', function () {});
+
+            sessionStorage.removeItem('Language');
             Message('Traducción a español','Success')
         } else {
             let lib = new google.translate.TranslateService();
             lib.translatePage('es', 'en', function () {});
-            $('#btnSp').show();
-            $('#btnEn').hide();
+
             sessionStorage.setItem('Language', 'true')
             Message('Translate to english', 'Success')
         }
