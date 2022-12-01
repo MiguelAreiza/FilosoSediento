@@ -1,0 +1,40 @@
+{
+    "Productos":[
+        {
+            "categoria":"Adiciones",
+            "titulo":"HAMBURGUESA ARTESANAL",
+            "precio":"27.800",
+            "descripcion":"Burger de ternera, queso provolone, chimichurri, lechuga, tomate y cebolla roja en pan artesano"
+        },
+        {
+            "categoria":"Bebidas",
+            "titulo":"COSTILLAS BBQ",
+            "precio":"45.200",
+            "descripcion":"Tiernas costillas de cerdo con la auténtica bbq mundos ligeramente picante, se te deshacen en la boca"
+        },
+        {
+            "categoria":"Burguers",
+            "titulo":"LIMONADA NATURAL",
+            "precio":"8.900",
+            "descripcion":"Deliciosa y refrescante bebida elaborada con agua mineral, azúcar y extracto de limón"
+        },
+        {
+            "categoria":"Entraditas",
+            "titulo":"LIMONADA NATURAL",
+            "precio":"8.900",
+            "descripcion":"Deliciosa y refrescante bebida elaborada con agua mineral, azúcar y extracto de limón"
+        },
+        {
+            "categoria":"Postres",
+            "titulo":"LIMONADA NATURAL",
+            "precio":"8.900",
+            "descripcion":"Deliciosa y refrescante bebida elaborada con agua mineral, azúcar y extracto de limón"
+        },
+        {
+            "categoria":"Postres",
+            "titulo":"Postre",
+            "precio":"11.900",
+            "descripcion":""
+        }
+    ]
+}

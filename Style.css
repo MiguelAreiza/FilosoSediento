@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --Color1: #f82a3e;
+    --Color2: #f9b62a;
+}
+body{
+    background-image: url('Imagenes/BackGround.png');
+    background-repeat: repeat;
+    background-size: 50%;
+}
+.Base{
+    box-sizing: border-box;
+    width: 100%;
+}
+.Header{
+    box-sizing: border-box;
+    background: var(--Color1);
+    width: 100%;
+    height: 12vh;
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+}
+.Header > .Logo{
+    box-sizing: border-box;
+    width: 50%;
+    height: 80%;
+    margin: auto;
+}
+.Header > .Logo > .Img{
+    box-sizing: border-box;
+    background-image: url('Imagenes/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    border-radius: 2vh;
+    box-shadow: 0 0 7px #000;
+}
+.Header > button{
+    box-sizing: border-box;
+    border: none;
+    font-size: 5vh;
+    margin: 0 5px;
+    background: none;
+    color: var(--Color2);
+    text-shadow: 1px 1px 5px #000;
+    transition: .6s;
+}
+.Header > button:hover{
+    transform: scale(1.2);
+}
+#PageContent{
+    box-sizing: border-box;
+    padding-top: 15vh;
+    margin-bottom: 5vh;
+}
+.Categories{
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+}
+.Categories > b{
+    font-family: 'Grechen Fuemen', cursive;
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 6vh;
+    margin-bottom: 3vh;
+    text-shadow: 1px 1px 1px var(--Color2);
+}
+.Categories > #CardsCategories{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.CardCategory{
+    box-sizing: border-box;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 3vh;
+    transition: .6s;
+}
+.CardCategory:hover{
+    transform: scale(1.02);
+    box-shadow: 5px 5px 15px #000;
+}
+.CardCategory > img{
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+.CardCategory > .Line{
+    height: 5px;
+    animation: anim-line-card 5s linear infinite;
+}
+@keyframes anim-line-card {
+    0%{
+        margin-left: auto;
+        width: 0;
+        background: var(--Color1);
+    }
+    40%{
+        background: var(--Color1);
+    }
+    50%{
+        width: 100%;
+    }
+    60%{
+        background: var(--Color2);
+    }
+    100%{
+        width: 0;
+        background: var(--Color2);
+    }
+}
+.Products{
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+}
+.Products > b{
+    font-family: 'Grechen Fuemen', cursive;
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 5vh;
+    margin-bottom: 3vh;
+    text-shadow: 1px 1px 1px var(--Color2);
+}
+.Products > img{
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 5vh 5vh 0 0;
+}
+#CardsProducts{
+    box-sizing: border-box;
+    width: 100%;
+    background: #0002;
+    border-radius: 0 0 5vh 5vh;
+    padding: 15px;
+    margin-top: -15px;
+}
+#CardsProducts > .CardProduct{
+    margin: 15px 0;
+    padding: 0 10px 8px 10px;
+    border-left: 1px solid;    
+    border-right: 1px solid;    
+    border-bottom: 1px solid;
+    border-radius: 2vh;
+    box-shadow: 3px 3px 5px #555;
+    display: flex;
+    flex-wrap: wrap;
+}
+#CardsProducts > .CardProduct > .Name{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 80%;
+    font-size: larger;
+}
+#CardsProducts > .CardProduct > .Price{
+    box-sizing: border-box;
+    margin: auto;
+}
+#CardsProducts > .CardProduct > .Description{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    font-size: small;
+    margin-top: 3px;
+}
+.FloatButtons{
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 200;
+    top: 14vh;
+    right: 2vw;
+}
+.FloatButtons > #WhatsApp{
+    width: 50px;
+    height: 50px;
+    background:  transparent;
+    background-image: url('Imagenes/Iconos/whatsapp.png');
+    background-size: 100% 100%;
+    border: none;
+    border-radius: 50% 50% 50% 0;
+    transition: 1s;
+}
+.FloatButtons > #WhatsApp:hover{
+    transform: scale(1.2);
+}
+.Footer{
+    box-sizing: border-box;
+    width: 100%;
+    background: #444b;
+    padding: 5px;
+}
+.Footer > .ContactUs{
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+.Footer > .ContactUs > .Locations{
+    box-sizing: border-box;
+    color: #fff;
+    font-size: small;
+    margin: 5px 10px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    transition: .6s;
+}
+.Footer > .ContactUs > .Locations:hover{
+    transform: scale(1.07);
+    border-radius: 10px;
+    background: #9995;
+    box-shadow: 0 0 5px #555;
+}
+.Footer > .ContactUs > .Networks{
+    box-sizing: border-box;
+    color: #fff;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+.Networks > label{
+    display: block;
+}
+.Networks > .Facebook, .Networks > .Instagram, .Networks > .WhatsApp{
+    background-size: 100% 100%;
+    border: none;
+    border-radius: 10px;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    transition: .6s;
+}
+.Networks > .Facebook:hover, .Networks > .Instagram:hover, .Networks > .WhatsApp:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 1px 5px #333;
+}
+.Networks > .Facebook{
+    background-image: url('Imagenes/Iconos/FbIcon.jpeg');    
+}
+.Networks > .Instagram{
+    background-image: url('Imagenes/Iconos/IgIcon.jpeg');
+}
+.Networks > .WhatsApp{
+    background-image: url('Imagenes/Iconos/WpIcon.jpeg');
+}
+.Footer > .CopyRight{
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    font-size: small;    
+    padding-top: 5px;
+}
+.Footer > .Text{
+    box-sizing: border-box;
+    text-align: right;
+    color: #fff;
+    font-size: small;
+    padding: 0 5px 5px 0;
+}
+#Notificacion{
+    display: none;
+    box-sizing: border-box;
+    background: #00ff00;
+    position: absolute;
+    z-index: 500;
+    bottom: 1vh;
+    right: 1vw;
+    font-size: 3vh;
+    font-weight: bold;
+    border-radius: 2vh 2vh 0 2vh;
+    padding: 1vh 2vh;
+    box-shadow: 3px 3px 8px #555;
+    transition: .6s;
+}
