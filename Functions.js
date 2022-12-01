@@ -148,7 +148,7 @@ function FilterProducts(Category) {
             } else {
                 $('.Products').show();
                 $('.Products > #CatProduct').html(Category);
-                $('.Products > img').attr("src",`Imagenes/Productos/img${Category}.png`);            
+                $('.Products > img').attr("src",`Imagenes/Productos/${Category}.png`);            
                 $('.Products > img').attr("alt",`Categoria ${Category}`);
                 $('#CardsProducts').html(html);
                 $('.Categories').hide();
