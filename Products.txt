@@ -211,60 +211,6 @@
             "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta"
         },
         {
-            "categoria":"Adiciones",
-            "titulo":"ENSALADA",
-            "precio":"5.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"QUESO",
-            "precio":"3.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"TOCINETA",
-            "precio":"4.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"HUEVOS DE CODORNIZ X5",
-            "precio":"2.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"AREPA CON QUESO",
-            "precio":"2.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"ALITA CADA UNA",
-            "precio":"2.500",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"SALCHICHA",
-            "precio":"2.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"CHORIZO COCTELERO",
-            "precio":"3.000",
-            "descripcion":""
-        },
-        {
-            "categoria":"Adiciones",
-            "titulo":"TROZOS DE POLLO",
-            "precio":"4.000",
-            "descripcion":""
-        },
-        {
             "categoria":"Alitas",
             "titulo":"COMBO 4 ALAS + PAPAS",
             "precio":"14.000",
@@ -563,6 +509,60 @@
             "titulo":"PATACON MIXTO",
             "precio":"15.000",
             "descripcion":"Pata con carne y pollo desmechado, queso rayado y hogao"
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"ENSALADA",
+            "precio":"5.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"QUESO",
+            "precio":"3.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"TOCINETA",
+            "precio":"4.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"HUEVOS DE CODORNIZ X5",
+            "precio":"2.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"AREPA CON QUESO",
+            "precio":"2.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"ALITA CADA UNA",
+            "precio":"2.500",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"SALCHICHA",
+            "precio":"2.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"CHORIZO COCTELERO",
+            "precio":"3.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"TROZOS DE POLLO",
+            "precio":"4.000",
+            "descripcion":""
         }
     ]
 }
