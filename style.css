@@ -183,17 +183,20 @@
     top: 14vh;
     right: 2vw;
 }
-.FloatButtons > #WhatsApp{
-    width: 50px;
-    height: 50px;
+.FloatButtons > button{
     background:  transparent;
-    background-image: url('Imagenes/Iconos/whatsapp.png');
     background-size: 100% 100%;
+    width: 50px;
+    height: 50px;    
     border: none;
-    border-radius: 50% 50% 50% 0;
     transition: 1s;
+    display: block;
 }
-.FloatButtons > #WhatsApp:hover{
+.FloatButtons > #WhatsApp{    
+    background-image: url('Imagenes/Iconos/whatsapp.png');
+    border-radius: 50% 50% 50% 0;    
+}
+.FloatButtons > button:hover{
     transform: scale(1.2);
 }
 .Footer{
@@ -271,7 +274,6 @@
 #Notificacion{
     display: none;
     box-sizing: border-box;
-    background: #00ff00;
     position: fixed;
     z-index: 500;
     bottom: 1vh;

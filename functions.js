@@ -50,9 +50,9 @@ $(document).ready(function(){
 function Message(msj, mode) {
     let color = '#0000ff'
     if (mode == 'Success') {
-        color = '#00ff00'
+        color = '#009900'
     } else if (mode == 'Error') {
-        color = '#ff0000'
+        color = '#990000'
     }
     $('#Notificacion').show();
     $('#Notificacion').html(msj);
