@@ -34,7 +34,7 @@
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA MEXICANA + PAPAS",
             "precio":"20.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga, ensalada dulce + papas"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
