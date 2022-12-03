@@ -62,18 +62,6 @@
         },
         {
             "categoria":"Hamburguesas",
-            "titulo":"HAMBURGUESA HAWAIANA MIXTA",
-            "precio":"22.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
-        },
-        {
-            "categoria":"Hamburguesas",
-            "titulo":"HAMBURGUESA HAWAIANA MIXTA + PAPAS",
-            "precio":"24.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas."
-        },
-        {
-            "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA CON POLLO",
             "precio":"20.000",
             "descripcion":"Pollo apanado, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
@@ -554,7 +542,49 @@
         },
         {
             "categoria":"Adiciones",
-            "titulo":"TROZOS DE POLLO",
+            "titulo":"NUGGETS DE POLLO",
+            "precio":"4.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"CARNE DESMECHADA",
+            "precio":"5.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"POLLO DESMECHADO",
+            "precio":"5.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"POLLO APANADO",
+            "precio":"5.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"BOMBÓN DE POLLO",
+            "precio":"4.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"CARNE HAMBURGUESA",
+            "precio":"3.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"CHICHARRÓN",
+            "precio":"9.000",
+            "descripcion":""
+        },
+        {
+            "categoria":"Adiciones",
+            "titulo":"MAICITOS",
             "precio":"4.000",
             "descripcion":""
         }
