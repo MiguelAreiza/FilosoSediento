@@ -164,17 +164,20 @@
     display: inline-block;
     width: 80%;
     font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #CardsProducts > .CardProduct > .Price{
     box-sizing: border-box;
     margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #CardsProducts > .CardProduct > .Description{
     box-sizing: border-box;
     display: block;
-    width: 100%;
+    width: 80%;
     font-size: small;
     margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .FloatButtons{
     box-sizing: border-box;

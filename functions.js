@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     Start();
-    Message('Bienvenido, ¿que deseas hoy?', 'Success')
+    Message('Bienvenido, ¿qué deseas hoy?', 'Success')
     
     $('#Translate').click(()=> {
         if (sessionStorage.Language) {
@@ -22,7 +22,7 @@ $(document).ready(function(){
 
     $('#btnHome').click(()=> {
         Start();
-        Message('¿Que deseas hoy?', 'Success')
+        Message('¿Qué deseas hoy?', 'Success')
     });
 
     $('.fa.fa-location-arrow.link-icon').click(()=>{
@@ -141,7 +141,7 @@ function FilterProducts(Category) {
                 html += `<div class="CardProduct">
                             <label class="Name">🍴 ${Products[i].titulo}</label>
                             <b class="Price">$ ${Products[i].precio}</b>
-                            <label class="Description">${Products[i].descripcion}</label>
+                            <p class="Description">${Products[i].descripcion}</p>
                         </div>`
                 
             }
@@ -154,7 +154,7 @@ function FilterProducts(Category) {
                 $('.Products > img').attr("alt",`Categoria ${Category}`);
                 $('#CardsProducts').html(html);
                 $('.Categories').hide();
-                Message(`Encontraras lo mejor en ${Category}`, 'Success');        
+                Message(`Encontrarás lo mejor en ${Category}`, 'Success');        
             }
         }
     })

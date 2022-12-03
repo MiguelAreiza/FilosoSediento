@@ -4,169 +4,169 @@
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA FILOSA",
             "precio":"12.000",
-            "descripcion":"Sencilla con queso, tocineta y lechuga"
+            "descripcion":"Sencilla con queso, tocineta y lechuga."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA FILOSA + PAPAS",
             "precio":"14.000",
-            "descripcion":"Sencilla con queso, tocineta, lechuga + papas"
+            "descripcion":"Sencilla con queso, tocineta, lechuga + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA SEDIENTA POLLO APANADO",
             "precio":"15.000",
-            "descripcion":"Queso, tocineta, lechuga, tomate y ensalada dulce"
+            "descripcion":"Queso, tocineta, lechuga, tomate y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA SEDIENTA POLLO APANADO + PAPAS",
             "precio":"17.000",
-            "descripcion":"Queso, tocineta, lechuga, tomate, ensalada dulce + papas"
+            "descripcion":"Queso, tocineta, lechuga, tomate, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA MEXICANA",
             "precio":"17.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, frijol refrito, jalapeños, lechuga y ensalada dulce"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA MEXICANA + PAPAS",
             "precio":"20.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, frijol refrito, jalapeños, lechuga, papas y ensalada dulce"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga, ensalada dulce + papas"
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA MEXICANA MIXTA",
             "precio":"22.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, frijol refrito, jalapeños, lechuga, papas y ensalada dulce"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA MEXICANA MIXTA + PAPAS",
             "precio":"24.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, frijol refrito, jalapeños, lechuga, papas y ensalada dulce + papas"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, fríjol refrito, jalapeños, lechuga y ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA DE RES",
             "precio":"17.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA DE RES + PAPAS",
             "precio":"20.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA MIXTA",
             "precio":"22.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA MIXTA + PAPAS",
             "precio":"24.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
-            "titulo":"HAMBURGUESA HAWAIANA DE POLLO",
+            "titulo":"HAMBURGUESA HAWAIANA CON POLLO",
             "precio":"20.000",
-            "descripcion":"Pollo apanado, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce"
+            "descripcion":"Pollo apanado, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
-            "titulo":"HAMBURGUESA HAWAIANA DE POLLO + PAPAS",
+            "titulo":"HAMBURGUESA HAWAIANA CON POLLO + PAPAS",
             "precio":"22.000",
-            "descripcion":"Pollo apanado, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas"
+            "descripcion":"Pollo apanado, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA MIXTA",
             "precio":"24.000",
-            "descripcion":"Pollo apanado, carne de res doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce"
+            "descripcion":"Pollo apanado, carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA HAWAIANA MIXTA + PAPAS",
             "precio":"26.000",
-            "descripcion":"Pollo apanado, carne de res doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas"
+            "descripcion":"Pollo apanado, carne de res, doble queso, tocineta, tomate, lechuga, piña en rodajas, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"AREPA BURGUER POLLO APANADO",
             "precio":"14.000",
-            "descripcion":"Carne de pollo apanado, doble queso, tocineta, tomate, lechuga y ensalada dulce"
+            "descripcion":"Carne de pollo apanado, doble queso, tocineta, tomate, lechuga y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"AREPA BURGUER POLLO APANADO + PAPAS",
             "precio":"17.000",
-            "descripcion":"Carne de pollo apanado, doble queso, tocineta, tomate, lechuga, ensalada dulce + papas"
+            "descripcion":"Carne de pollo apanado, doble queso, tocineta, tomate, lechuga, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"AREPA BURGUER FILOSA",
             "precio":"12.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga y ensalada dulce"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"AREPA BURGUER FILOSA + PAPAS",
             "precio":"14.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ensalada dulce + papas"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA",
             "precio":"14.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ripio y ensalada dulce"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ripio y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA + PAPAS",
             "precio":"17.000",
-            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ripio, ensalada dulce + papas"
+            "descripcion":"Carne de res, doble queso, tocineta, tomate, lechuga, ripio, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA MIXTA",
             "precio":"20.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio y ensalada dulce"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA MIXTA + PAPAS",
             "precio":"22.000",
-            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio, ensalada dulce + papas"
+            "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio, ensalada dulce + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS",
             "precio":"14.000",
-            "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga y maicitos"
+            "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga y maicitos."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS + PAPAS",
             "precio":"17.000",
-            "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga, maicitos + papas"
+            "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga, maicitos + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS MIXTA",
             "precio":"20.000",
-            "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga y maicitos"
+            "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga y maicitos."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS MIXTA + PAPAS",
             "precio":"23.000",
-            "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga, maicitos + papas"
+            "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga, maicitos + papas."
         },
         {
             "categoria":"Maicitos",
@@ -196,49 +196,49 @@
             "categoria":"Maicitos",
             "titulo":"FILO DESGRANADO GRANDE",
             "precio":"20.000",
-            "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta"
+            "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta."
         },
         {
             "categoria":"Maicitos",
             "titulo":"FILO DESGRANADO PEQUEÑO",
             "precio":"15.000",
-            "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta"
+            "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 4 ALAS + PAPAS",
             "precio":"14.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         }, 
         {
             "categoria":"Alitas",
             "titulo":"COMBO 6 ALAS + PAPAS",
             "precio":"19.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 12 ALAS + PAPAS",
             "precio":"30.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 18 ALAS + PAPAS + 2 GASEOSAS",
             "precio":"40.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 24 ALAS + PAPAS + 2 GASEOSAS",
             "precio":"47.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 50 ALAS + PAPAS + GASEOSA 1.5L",
             "precio":"87.000",
-            "descripcion":"*BBQ, Miel mostaza, BBQ picante"
+            "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Carnes",
@@ -250,7 +250,7 @@
             "categoria":"Carnes",
             "titulo":"COSTILLAS",
             "precio":"20.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Carnes",
@@ -290,15 +290,15 @@
         },
         {
             "categoria":"Carnes",
-            "titulo":"CHICHARRON",
+            "titulo":"CHICHARRÓN",
             "precio":"20.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Carnes",
             "titulo":"PICADA",
             "precio":"70.000",
-            "descripcion":"Papas a la francesa + ensalada + arepa con queso"
+            "descripcion":"Papas a la francesa + ensalada + arepa con queso."
         },
         {
             "categoria":"Carnes",
@@ -310,25 +310,25 @@
             "categoria":"Chuzos",
             "titulo":"CHUZO DE POLLO",
             "precio":"18.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Chuzos",
-            "titulo":"CHUZO EXTRAGRANDE DE POLLO",
+            "titulo":"CHUZO EXTRA GRANDE DE POLLO",
             "precio":"20.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Chuzos",
             "titulo":"CHUZO DE CERDO",
             "precio":"18.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Chuzos",
-            "titulo":"CHUZO EXTRAGRANDE DE CERDO",
+            "titulo":"CHUZO EXTRA GRANDE DE CERDO",
             "precio":"20.000",
-            "descripcion":"Papas + ensalada + arepa con queso"
+            "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
             "categoria":"Chuzos",
@@ -394,13 +394,13 @@
             "categoria":"Perros",
             "titulo":"CHORI PAN",
             "precio":"13.000",
-            "descripcion":"Chorizo gigante de ternera, queso chimichurri argentino"
+            "descripcion":"Chorizo gigante de ternera, queso, chimichurri argentino."
         },
         {
             "categoria":"Perros",
             "titulo":"PERRI BURGUER",
             "precio":"12.000",
-            "descripcion":"Pan perro con carne de hamburguesa, tocineta, queso y ensalada"
+            "descripcion":"Pan perro con carne de hamburguesa, tocineta, queso y ensalada-"
         },
         {
             "categoria":"Perros",
@@ -418,19 +418,19 @@
             "categoria":"Papas",
             "titulo":"COMBO 1",
             "precio":"7.000",
-            "descripcion":"Papas + huevo + salchicha"
+            "descripcion":"Papas + huevo + salchicha."
         },
         {
             "categoria":"Papas",
             "titulo":"COMBO 2",
             "precio":"12.000",
-            "descripcion":"Papas + huevo + salchicha + alas"
+            "descripcion":"Papas + huevo + salchicha + alas."
         },
         {
             "categoria":"Papas",
             "titulo":"COMBO 3",
             "precio":"12.000",
-            "descripcion":"Papas + huevo + salchicha + nuggets"
+            "descripcion":"Papas + huevo + salchicha + nuggets."
         },
         {
             "categoria":"Papas",
@@ -454,55 +454,55 @@
             "categoria":"Papas",
             "titulo":"COMBO FILOSO",
             "precio":"15.000",
-            "descripcion":"Papas + alas + nuggets + huevos"
+            "descripcion":"Papas + alas + nuggets + huevos."
         },
         {
             "categoria":"Papas",
             "titulo":"SUPER COMBO TOCINETA + QUESO",
             "precio":"20.000",
-            "descripcion":"Papas + queso fundido + huevos + salchicha + tocineta"
+            "descripcion":"Papas + queso fundido + huevos + salchicha + tocineta."
         },
         {
             "categoria":"Papas",
-            "titulo":"PAPACHARRON",
+            "titulo":"PAPACHARRÓN",
             "precio":"18.000",
-            "descripcion":"Papas + trozos de chicharron + queso fundido + salchicha + tocineta"
+            "descripcion":"Papas + trozos de chicharrón + queso fundido + salchicha + tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"FILO MECHAS GRANDE",
             "precio":"20.000",
-            "descripcion":"Papas, queso rayado, carne desmechada, corizo coctelero y tocineta"
+            "descripcion":"Papas, queso rayado, carne desmechada, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"FILO MECHAS PEQUEÑA",
             "precio":"15.000",
-            "descripcion":"Papas, queso rayado, carne desmechada, corizo coctelero y tocineta"
+            "descripcion":"Papas, queso rayado, carne desmechada, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"POLLO MECHAS GRANDES",
             "precio":"20.000",
-            "descripcion":"Papas, queso rayado, pollo desmechada, corizo coctelero y tocineta"
+            "descripcion":"Papas, queso rayado, pollo desmechado, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"POLLO MECHAS PEQUEÑA",
             "precio":"15.000",
-            "descripcion":"Papas, queso rayado, pollo desmechada, corizo coctelero y tocineta"
+            "descripcion":"Papas, queso rayado, pollo desmechado, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
-            "titulo":"PATACON",
+            "titulo":"PATACÓN",
             "precio":"12.000",
-            "descripcion":"Pata con carne o pollo desmechado, queso rayado y hogao"
+            "descripcion":"Patacón con carne o pollo desmechado, queso rayado y hogao."
         },
         {
             "categoria":"Nuevos",
-            "titulo":"PATACON MIXTO",
+            "titulo":"PATACÓN MIXTO",
             "precio":"15.000",
-            "descripcion":"Pata con carne y pollo desmechado, queso rayado y hogao"
+            "descripcion":"Patacón con carne y pollo desmechado, queso rayado y hogao."
         },
         {
             "categoria":"Adiciones",
@@ -536,7 +536,7 @@
         },
         {
             "categoria":"Adiciones",
-            "titulo":"ALITA CADA UNA",
+            "titulo":"ALITAS - CADA UNA",
             "precio":"3.000",
             "descripcion":""
         },
