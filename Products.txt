@@ -2,12 +2,6 @@
     "Productos":[
         {
             "categoria":"Hamburguesas",
-            "titulo":"HAMBURGUESA ARTESANAL",
-            "precio":"27.800",
-            "descripcion":"Burger de ternera, queso provolone, chimichurri, lechuga, tomate y cebolla roja en pan artesano"
-        },
-        {
-            "categoria":"Hamburguesas",
             "titulo":"HAMBURGUESA FILOSA",
             "precio":"12.000",
             "descripcion":"Sencilla con queso, tocineta y lechuga"
@@ -543,7 +537,7 @@
         {
             "categoria":"Adiciones",
             "titulo":"ALITA CADA UNA",
-            "precio":"2.500",
+            "precio":"3.000",
             "descripcion":""
         },
         {
