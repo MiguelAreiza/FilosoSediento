@@ -8,7 +8,7 @@ $(document).ready(function(){
         setTimeout(() => {
             $('#Theme').hide();
         }, 2000);       
-    }, 3500);
+    }, 3000);
 
     
     $('#Translate').click(()=> {
