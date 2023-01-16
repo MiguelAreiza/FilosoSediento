@@ -4,10 +4,10 @@ $(document).ready(function(){
         Start();
         Message('Bienvenido, ¿qué deseas hoy?', 'Success');
         
-        $('#Theme').addClass('AnimationTheme');
-        setTimeout(() => {
-            $('#Theme').hide();
-        }, 2000);       
+        // $('#Theme').addClass('AnimationTheme');
+        // setTimeout(() => {
+        //     $('#Theme').hide();
+        // }, 2000);       
     }, 3000);
 
     
