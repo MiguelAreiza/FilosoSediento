@@ -135,25 +135,25 @@
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS",
-            "precio":"14.000",
+            "precio":"16.000",
             "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga y maicitos."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS + PAPAS",
-            "precio":"17.000",
+            "precio":"18.000",
             "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga, maicitos + papas."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS MIXTA",
-            "precio":"20.000",
+            "precio":"22.000",
             "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga y maicitos."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS MIXTA + PAPAS",
-            "precio":"23.000",
+            "precio":"25.000",
             "descripcion":"Carne de res, pollo, triple queso, tocineta, tomate, lechuga, maicitos + papas."
         },
         {
