@@ -1,15 +1,14 @@
 $(document).ready(function(){
 
-    setTimeout(() => {
-        Start();
-        Message('Bienvenido, ¿qué deseas hoy?', 'Success');
-        
-        // $('#Theme').addClass('AnimationTheme');
-        // setTimeout(() => {
-        //     $('#Theme').hide();
-        // }, 2000);       
-    }, 3000);
+    // setTimeout(() => {        
+    //     $('#Theme').addClass('AnimationTheme');
+    //     setTimeout(() => {
+    //             $('#Theme').hide();
+    //         }, 2000);       
+    // }, 3000);
 
+    Start();
+    Message('Bienvenido, ¿qué deseas hoy?', 'Success');
     
     $('#Translate').click(()=> {
         if (sessionStorage.Language) {
