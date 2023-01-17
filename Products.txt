@@ -165,7 +165,7 @@
         {
             "categoria":"Maicitos",
             "titulo":"MAICITOS GRATINADOS CON TOCINETA",
-            "precio":"9.000",
+            "precio":"10.000",
             "descripcion":""
         },
         {
@@ -195,37 +195,37 @@
         {
             "categoria":"Alitas",
             "titulo":"COMBO 4 ALAS + PAPAS",
-            "precio":"14.000",
+            "precio":"15.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         }, 
         {
             "categoria":"Alitas",
             "titulo":"COMBO 6 ALAS + PAPAS",
-            "precio":"19.000",
+            "precio":"20.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 12 ALAS + PAPAS",
-            "precio":"30.000",
+            "precio":"32.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 18 ALAS + PAPAS + 2 GASEOSAS",
-            "precio":"40.000",
+            "precio":"42.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 24 ALAS + PAPAS + 2 GASEOSAS",
-            "precio":"47.000",
+            "precio":"50.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
             "categoria":"Alitas",
             "titulo":"COMBO 50 ALAS + PAPAS + GASEOSA 1.5L",
-            "precio":"87.000",
+            "precio":"90.000",
             "descripcion":"*BBQ, miel mostaza, BBQ picante."
         },
         {
@@ -459,37 +459,37 @@
         {
             "categoria":"Nuevos",
             "titulo":"FILO MECHAS GRANDE",
-            "precio":"20.000",
+            "precio":"22.000",
             "descripcion":"Papas, queso rayado, carne desmechada, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"FILO MECHAS PEQUEÑA",
-            "precio":"15.000",
+            "precio":"16.000",
             "descripcion":"Papas, queso rayado, carne desmechada, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"POLLO MECHAS GRANDES",
-            "precio":"20.000",
+            "precio":"22.000",
             "descripcion":"Papas, queso rayado, pollo desmechado, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"POLLO MECHAS PEQUEÑA",
-            "precio":"15.000",
+            "precio":"16.000",
             "descripcion":"Papas, queso rayado, pollo desmechado, chorizo coctelero y tocineta."
         },
         {
             "categoria":"Nuevos",
             "titulo":"PATACÓN",
-            "precio":"12.000",
+            "precio":"14.000",
             "descripcion":"Patacón con carne o pollo desmechado, queso rayado y hogao."
         },
         {
             "categoria":"Nuevos",
             "titulo":"PATACÓN MIXTO",
-            "precio":"15.000",
+            "precio":"17.000",
             "descripcion":"Patacón con carne y pollo desmechado, queso rayado y hogao."
         },
         {
