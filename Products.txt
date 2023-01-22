@@ -465,7 +465,7 @@
         {
             "categoria":"Nuevos",
             "titulo":"FILO MECHAS PEQUEÑA",
-            "precio":"16.000",
+            "precio":"17.000",
             "descripcion":"Papas, queso rayado, carne desmechada, chorizo coctelero y tocineta."
         },
         {
@@ -477,7 +477,7 @@
         {
             "categoria":"Nuevos",
             "titulo":"POLLO MECHAS PEQUEÑA",
-            "precio":"16.000",
+            "precio":"17.000",
             "descripcion":"Papas, queso rayado, pollo desmechado, chorizo coctelero y tocineta."
         },
         {
