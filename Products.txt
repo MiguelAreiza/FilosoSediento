@@ -1,4 +1,4 @@
-{
+﻿{
     "Productos":[
         {
             "categoria":"Hamburguesas",
@@ -123,13 +123,13 @@
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA MIXTA",
-            "precio":"20.000",
+            "precio":"23.000",
             "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio y ensalada dulce."
         },
         {
             "categoria":"Hamburguesas",
             "titulo":"LA GAMINA MIXTA + PAPAS",
-            "precio":"22.000",
+            "precio":"25.000",
             "descripcion":"Carne de res, pollo, doble queso, tocineta, tomate, lechuga, ripio, ensalada dulce + papas."
         },
         {
@@ -141,7 +141,7 @@
         {
             "categoria":"Hamburguesas",
             "titulo":"QUESUDA CON MAICITOS + PAPAS",
-            "precio":"18.000",
+            "precio":"19.000",
             "descripcion":"Carne de res, triple queso, tocineta, tomate, lechuga, maicitos + papas."
         },
         {
@@ -171,7 +171,7 @@
         {
             "categoria":"Maicitos",
             "titulo":"MAICITOS CON TROZOS DE POLLO",
-            "precio":"10.000",
+            "precio":"12.000",
             "descripcion":""
         },
         {
@@ -183,13 +183,13 @@
         {
             "categoria":"Maicitos",
             "titulo":"FILO DESGRANADO GRANDE",
-            "precio":"20.000",
+            "precio":"22.000",
             "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta."
         },
         {
             "categoria":"Maicitos",
             "titulo":"FILO DESGRANADO PEQUEÑO",
-            "precio":"15.000",
+            "precio":"17.000",
             "descripcion":"Maíz tierno desgranado, queso, trozos de pechuga de pollo, ripio y tocineta."
         },
         {
@@ -237,7 +237,7 @@
         {
             "categoria":"Carnes",
             "titulo":"COSTILLAS",
-            "precio":"20.000",
+            "precio":"23.000",
             "descripcion":"Papas + ensalada + arepa con queso."
         },
         {
@@ -321,7 +321,7 @@
         {
             "categoria":"Chuzos",
             "titulo":"CHORIZO",
-            "precio":"16.000",
+            "precio":"18.000",
             "descripcion":""
         },
         {
@@ -435,7 +435,7 @@
         {
             "categoria":"Papas",
             "titulo":"PAPAS GRATINADAS",
-            "precio":"10.000",
+            "precio":"12.000",
             "descripcion":""
         },
         {
@@ -453,7 +453,7 @@
         {
             "categoria":"Papas",
             "titulo":"PAPACHARRÓN",
-            "precio":"18.000",
+            "precio":"20.000",
             "descripcion":"Papas + trozos de chicharrón + queso fundido + salchicha + tocineta."
         },
         {
@@ -483,13 +483,13 @@
         {
             "categoria":"Nuevos",
             "titulo":"PATACÓN",
-            "precio":"14.000",
+            "precio":"17.000",
             "descripcion":"Patacón con carne o pollo desmechado, queso rayado y hogao."
         },
         {
             "categoria":"Nuevos",
             "titulo":"PATACÓN MIXTO",
-            "precio":"17.000",
+            "precio":"20.000",
             "descripcion":"Patacón con carne y pollo desmechado, queso rayado y hogao."
         },
         {
@@ -501,7 +501,7 @@
         {
             "categoria":"Adiciones",
             "titulo":"QUESO",
-            "precio":"3.000",
+            "precio":"4.000",
             "descripcion":""
         },
         {
@@ -513,7 +513,7 @@
         {
             "categoria":"Adiciones",
             "titulo":"HUEVOS DE CODORNIZ X5",
-            "precio":"2.000",
+            "precio":"3.000",
             "descripcion":""
         },
         {
@@ -567,7 +567,7 @@
         {
             "categoria":"Adiciones",
             "titulo":"BOMBÓN DE POLLO",
-            "precio":"4.000",
+            "precio":"4.500",
             "descripcion":""
         },
         {
